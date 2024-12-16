@@ -1,0 +1,23 @@
+/*
+// QsNo : 1 Binary Search to find X in sorted array 
+
+class Solution {
+  public:
+    int floorSqrt(int n) {
+        int ans = 1;
+        int l = 1, h = n;
+        while(l <= h){
+            int m = (l+h)/2;
+            if(m*m <= n){
+                ans = m;
+                l = m + 1;
+            }
+            else h = m - 1; 
+        }
+        return ans;
+    }
+};
+
+
+
+*/
