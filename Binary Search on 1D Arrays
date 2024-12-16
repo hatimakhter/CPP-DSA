@@ -127,7 +127,7 @@ public:
 
 
 /*
-// Find Kth Rotation (GeeksforGeeks)
+//QsNo 6: Find Kth Rotation (GeeksforGeeks)
 class Solution {
   public:
     int findKRotation(vector<int> &arr) {
