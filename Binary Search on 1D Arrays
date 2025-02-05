@@ -16,7 +16,7 @@ public:
 };
 */
 
-
+ 
 /*
 // QsNo 2 :  Ceil The Floor (codingNinjas) 
 pair<int, int> getFloorAndCeil(vector<int> &a, int n, int x) {
